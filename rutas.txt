@@ -1,0 +1,46 @@
+Rutas - API oAuth
+-----------------
+(DELETE)
+http://127.0.0.1:8002/api/v1/user/2 
+
+(PUT)
+http://127.0.0.1:8002/api/v1/user/3
+
+(GET)
+http://127.0.0.1:8002/api/v1/user
+
+(POST LOGIN)
+http://127.0.0.1:8002/oauth/token
+
+(POST REGISTRO)
+http://127.0.0.1:8003/api/v1/user
+------------------------------------------------------------------------
+
+Rutas - API 
+
+(DELETE TAREA)
+http://127.0.0.1:8001/api/v1/tarea/2
+
+(PUT TAREA)
+http://127.0.0.1:8001/api/v1/tarea/1
+
+(POST TAREA NUEVA)
+http://127.0.0.1:8001/api/v1/tarea
+
+(GET TAREAS)
+http://127.0.0.1:8001/api/v1/tarea
+
+(CREACIÓN DE TAREA CON AUTORIZACIÓN DE TOKEN)
+http://127.0.0.1:8001/api/v1/tarea
+
+(ELIMINAR TAREA CON AUTORIZACIÓN DE TOKEN)
+http://127.0.0.1:8001/api/v1/tarea/100
+
+(MODIFICAR TAREAS CON AUTORIZACIÓN DE TOKEN)
+http://127.0.0.1:8001/api/v1/tarea/107
+------------------------------------------------------------------------
+
+
+
+
+
